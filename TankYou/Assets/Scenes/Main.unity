@@ -1322,10 +1322,30 @@ PrefabInstance:
       propertyPath: respawnPoint
       value: 
       objectReference: {fileID: 1608748260}
+    - target: {fileID: 6146147380369569965, guid: cf4d072fed3027b45a07775dcbcb6dc3,
+        type: 3}
+      propertyPath: switchTimeRangeLow
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6146147380369569965, guid: cf4d072fed3027b45a07775dcbcb6dc3,
+        type: 3}
+      propertyPath: switchTimeRangeHigh
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6146147380369569965, guid: cf4d072fed3027b45a07775dcbcb6dc3,
+        type: 3}
+      propertyPath: fireRateVarience
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6146147380369669643, guid: cf4d072fed3027b45a07775dcbcb6dc3,
         type: 3}
       propertyPath: m_Name
       value: Player 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6146147380369669643, guid: cf4d072fed3027b45a07775dcbcb6dc3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6146147380369957419, guid: cf4d072fed3027b45a07775dcbcb6dc3,
         type: 3}
@@ -1496,6 +1516,21 @@ PrefabInstance:
       propertyPath: respawnPoint
       value: 
       objectReference: {fileID: 1608748260}
+    - target: {fileID: 6875489543765588203, guid: dd73ecf1fff95a34582079e82c21ba9f,
+        type: 3}
+      propertyPath: switchTimeRangeLow
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6875489543765588203, guid: dd73ecf1fff95a34582079e82c21ba9f,
+        type: 3}
+      propertyPath: switchTimeRangeHigh
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6875489543765588203, guid: dd73ecf1fff95a34582079e82c21ba9f,
+        type: 3}
+      propertyPath: fireRateVarience
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd73ecf1fff95a34582079e82c21ba9f, type: 3}
 --- !u!1001 &6577765860348442142
@@ -1510,10 +1545,30 @@ PrefabInstance:
       propertyPath: respawnPoint
       value: 
       objectReference: {fileID: 1608748260}
+    - target: {fileID: 3330284273822530150, guid: 7448d791286a4254f896e6432909a761,
+        type: 3}
+      propertyPath: switchTimeRangeLow
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3330284273822530150, guid: 7448d791286a4254f896e6432909a761,
+        type: 3}
+      propertyPath: switchTimeRangeHigh
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3330284273822530150, guid: 7448d791286a4254f896e6432909a761,
+        type: 3}
+      propertyPath: fireRateVarience
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3330284273822563520, guid: 7448d791286a4254f896e6432909a761,
         type: 3}
       propertyPath: m_Name
       value: Player 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3330284273822563520, guid: 7448d791286a4254f896e6432909a761,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3330284273822654688, guid: 7448d791286a4254f896e6432909a761,
         type: 3}
@@ -1804,6 +1859,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 8466592289773770131, guid: 07d52a1bf89d869428562a801011788f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8466592289773770133, guid: 07d52a1bf89d869428562a801011788f,
         type: 3}
       propertyPath: m_Layer
@@ -1828,6 +1888,21 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 8466592289773802293, guid: 07d52a1bf89d869428562a801011788f,
+        type: 3}
+      propertyPath: switchTimeRangeHigh
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8466592289773802293, guid: 07d52a1bf89d869428562a801011788f,
+        type: 3}
+      propertyPath: switchTimeRangeLow
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8466592289773802293, guid: 07d52a1bf89d869428562a801011788f,
+        type: 3}
+      propertyPath: fireRateVarience
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8466592289773802294, guid: 07d52a1bf89d869428562a801011788f,
         type: 3}
